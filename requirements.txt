@@ -1,0 +1,11 @@
+streamlit
+torch
+transformers
+ultralytics
+opencv-python
+pillow
+numpy
+sentence-transformers
+faiss-cpu
+gtts
+accelerate
